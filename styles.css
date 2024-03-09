@@ -1,0 +1,18 @@
+.form-header {
+    background-color: #f7f7f7;
+}
+.error-msg {
+    width: 95%;
+}
+.amount-col {
+    display: flex;
+    flex-direction: row;
+}
+.location {
+    display: flex;
+    flex-direction: row;
+}
+.payment {
+    display: flex;
+    flex-direction: row;
+}
